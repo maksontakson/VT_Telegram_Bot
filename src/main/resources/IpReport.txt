@@ -1,0 +1,20 @@
+___IP Report__
+Detected URLs
+URL : http://www.nau.edu.ua/tools/chase/chase/index.php
+Positives : 1
+Total : 93
+Resolutions
+Host Name : nau.edu.ua
+Last Resolved : 2019-11-14 22:21:36
+Host Name : wpn.nau.edu.ua
+Last Resolved : 2019-09-09 16:03:32
+Host Name : wpn2.nau.edu.ua
+Last Resolved : 2020-10-24 05:03:51
+Host Name : www.nau.edu.ua
+Last Resolved : 2019-11-05 16:07:24
+Host Name : www.wpn.nau.edu.ua
+Last Resolved : 2019-09-09 16:03:30
+Host Name : www2.nau.edu.ua
+Last Resolved : 2022-03-24 08:57:47
+Response Code : 1
+Verbose Message : IP address in dataset
